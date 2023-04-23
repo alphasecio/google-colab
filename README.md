@@ -10,3 +10,8 @@ A sample Streamlit web application for retrieving a stock quote using YFinance A
 A sample Streamlit web application for summarizing text using LangChain and OpenAI.
 
 [![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-text-summarizer/blob/main/langchain_text_summarizer.ipynb)
+
+## [langchain-doc-summarizer](https://colab.research.google.com/github/alphasecio/langchain-doc-summarizer/blob/main/langchain_doc_summarizer.ipynb)
+A sample Streamlit web application for summarizing documents using LangChain and Chroma.
+
+[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-doc-summarizer/blob/main/langchain_doc_summarizer.ipynb)
