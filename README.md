@@ -15,3 +15,8 @@ A sample Streamlit web application for summarizing text using LangChain and Open
 A sample Streamlit web application for summarizing documents using LangChain and Chroma.
 
 [![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-doc-summarizer/blob/main/langchain_doc_summarizer.ipynb)
+
+## [langchain-search](https://colab.research.google.com/github/alphasecio/langchain-search/blob/main/langchain_search.ipynb)
+A sample Streamlit web application for search queries using LangChain and SerpApi.
+
+[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-search/blob/main/langchain_search.ipynb)
