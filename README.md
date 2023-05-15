@@ -25,3 +25,8 @@ A sample Streamlit web application for search queries using LangChain and SerpAp
 A sample Streamlit web application to demo LLM observability using LangChain and Helicone.
 
 [![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/helicone/blob/main/helicone.ipynb)
+
+## [google-palm](https://colab.research.google.com/github/alphasecio/google-palm/blob/main/google_palm.ipynb)
+A sample Streamlit web application to demo question-answering and text summarization with Google Cloud Vertex AI PaLM API.
+
+[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/google-palm/blob/main/google_palm.ipynb)
