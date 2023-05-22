@@ -21,12 +21,12 @@ A sample Streamlit web application for search queries using LangChain and SerpAp
 
 [![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-search/blob/main/langchain_search.ipynb)
 
-## [helicone](https://colab.research.google.com/github/alphasecio/helicone/blob/main/helicone.ipynb)
+## [langchain-helicone](https://colab.research.google.com/github/alphasecio/langchain-examples/blob/main/helicone/langchain_helicone.ipynb)
 A sample Streamlit web application to demo LLM observability using LangChain and Helicone.
 
-[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/helicone/blob/main/helicone.ipynb)
+[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-examples/blob/main/helicone/langchain_helicone.ipynb)
 
-## [google-palm](https://colab.research.google.com/github/alphasecio/google-palm/blob/main/google_palm.ipynb)
+## [google-cloud-palm-api](https://colab.research.google.com/github/alphasecio/google-cloud/blob/main/palm-api/google_palm.ipynb)
 A sample Streamlit web application to demo question-answering and text summarization with Google Cloud Vertex AI PaLM API.
 
-[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/google-palm/blob/main/google_palm.ipynb)
+[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/google-cloud/blob/main/palm-api/google_palm.ipynb)
