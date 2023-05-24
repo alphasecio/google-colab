@@ -1,25 +1,25 @@
 # google-colab
 A collection of [Google Colab](https://colab.research.google.com/) notebooks for beginners and enthusiasts alike.
 
-## [streamlit-yfinance](streamlit_yfinance.ipynb)
+## [streamlit-yfinance](https://colab.research.google.com/github/alphasecio/streamlit-yfinance/blob/main/streamlit_yfinance.ipynb)
 A sample Streamlit web application for retrieving a stock quote using YFinance API.
 
-[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/google-colab/blob/main/streamlit_yfinance.ipynb)
+[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/streamlit-yfinance/blob/main/streamlit_yfinance.ipynb)
 
-## [langchain-text-summarizer](https://colab.research.google.com/github/alphasecio/langchain-text-summarizer/blob/main/langchain_text_summarizer.ipynb)
+## [langchain-text-summary](https://colab.research.google.com/github/alphasecio/langchain-examples/blob/main/text-summary/langchain_text_summarizer.ipynb)
 A sample Streamlit web application for summarizing text using LangChain and OpenAI.
 
-[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-text-summarizer/blob/main/langchain_text_summarizer.ipynb)
+[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-examples/blob/main/text-summary/langchain_text_summarizer.ipynb)
 
-## [langchain-doc-summarizer](https://colab.research.google.com/github/alphasecio/langchain-doc-summarizer/blob/main/langchain_doc_summarizer.ipynb)
+## [langchain-doc-summary](https://colab.research.google.com/github/alphasecio/langchain-examples/blob/main/chroma-summary/langchain_doc_summarizer.ipynb)
 A sample Streamlit web application for summarizing documents using LangChain and Chroma.
 
-[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-doc-summarizer/blob/main/langchain_doc_summarizer.ipynb)
+[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-examples/blob/main/chroma-summary/langchain_doc_summarizer.ipynb)
 
-## [langchain-search](https://colab.research.google.com/github/alphasecio/langchain-search/blob/main/langchain_search.ipynb)
+## [langchain-search](https://colab.research.google.com/github/alphasecio/langchain-examples/blob/main/search/langchain_search.ipynb)
 A sample Streamlit web application for search queries using LangChain and SerpApi.
 
-[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-search/blob/main/langchain_search.ipynb)
+[![Open In Colab](images/colab.svg)](https://colab.research.google.com/github/alphasecio/langchain-examples/blob/main/search/langchain_search.ipynb)
 
 ## [langchain-helicone](https://colab.research.google.com/github/alphasecio/langchain-examples/blob/main/helicone/langchain_helicone.ipynb)
 A sample Streamlit web application to demo LLM observability using LangChain and Helicone.
